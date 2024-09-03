@@ -3,7 +3,7 @@ import { MouseEventHandler } from "react";
 import { SizeType } from "antd/lib/config-provider/SizeContext";
 import styles from "./app-button.module.scss";
 
-export interface AppButtonProps {
+interface AppButtonProps {
   size?: "small" | "middle" | "large" | "default" | undefined;
   className?: string;
   handleClick?: MouseEventHandler<HTMLElement>;
