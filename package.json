@@ -1,7 +1,6 @@
 {
-  "name": "frontend_components",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@fahadtechfriar/frontend_components",
+  "version": "0.1.1",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
