@@ -1,6 +1,6 @@
 {
   "name": "@fahadtechfriar/frontend_components",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
@@ -17,7 +17,6 @@
   },
   "peerDependencies": {
     "@babel/runtime": "^7.24.8",
-    "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "react": "^18.2.0",
